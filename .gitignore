@@ -1,0 +1,7 @@
+venv/
+__pycache__
+*.pyc
+.env
+alembic/
+help.txt
+x-venv
